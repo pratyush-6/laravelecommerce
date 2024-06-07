@@ -1,2 +1,4 @@
 # laravelecommerce
+
 core
+all goog
